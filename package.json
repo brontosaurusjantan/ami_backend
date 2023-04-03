@@ -1,0 +1,16 @@
+{
+  "name": "ami_nodejs",
+  "version": "1.0.0",
+  "description": "ami backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nyala": "nodemon index.js"
+  },
+  "author": "fahmimaulana",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22",
+    "rupiah-format": "^1.0.0"
+  }
+}
